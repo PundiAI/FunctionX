@@ -1,0 +1,74 @@
+﻿<Properties StartupConfiguration="{88BB0EDB-AD6B-4CAA-97EE-7FE263F27F78}|Default">
+  <MonoDevelop.Ide.ItemProperties.OpenPlatformSDKTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RequestLayer/UserRequest.cs">
+    <Files>
+      <File FileName="Models/AuthToken.cs" Line="27" Column="14" />
+      <File FileName="Models/AuthResponse.cs" Line="16" Column="1" />
+      <File FileName="Models/Order.cs" />
+      <File FileName="Models/OrderResponse.cs" />
+      <File FileName="Models/Data.cs" Line="1" Column="1" />
+      <File FileName="Models/User.cs" Line="20" Column="50" />
+      <File FileName="RequestLayer/UserRequest.cs" Line="31" Column="1" />
+      <File FileName="RequestLayer/Common.cs" Line="48" Column="88" />
+      <File FileName="RequestLayer/AuthRequest.cs" Line="42" Column="1" />
+      <File FileName="HttpRequest/MyHttpRequest.cs" Line="38" Column="1" />
+      <File FileName="OpenPlatformSDKTests/UnitTest1.cs" Line="23" Column="1" />
+      <File FileName="Models/BaseClass.cs" Line="39" Column="39" />
+      <File FileName="Models/DataBase.cs" Line="18" Column="1" />
+      <File FileName="Models/Init.cs" Line="17" Column="48" />
+      <File FileName="Models/DataJson.cs" Line="11" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenPlatformSDK" expanded="True" selected="True">
+            <Node name="HttpRequest" expanded="True" />
+            <Node name="Models" expanded="True" />
+            <Node name="OpenPlatformSDKTests" expanded="True" />
+            <Node name="RequestLayer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>authResp</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OpenPlatformSDK" expanded="True">
+            <Node name="OpenPlatformSDKTests" expanded="True">
+              <Node name="OpenPlatformSDKTests" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="GetUserInfo" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../RequestLayer/AuthRequest.cs" line="38" offsetX="-1" offsetY="-1" expression="authResp" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/AuthRequest.cs" relfile="RequestLayer/AuthRequest.cs" line="46" column="1" />
+      <Breakpoint enabled="false" file="/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/AuthToken.cs" relfile="Models/AuthToken.cs" line="28" column="1" />
+      <Breakpoint enabled="false" file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/AuthRequest.cs" relfile="RequestLayer/AuthRequest.cs" line="32" column="1" />
+      <Breakpoint enabled="false" file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/AuthRequest.cs" relfile="RequestLayer/AuthRequest.cs" line="27" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/UnitTest1.cs" relfile="OpenPlatformSDKTests/UnitTest1.cs" line="24" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/UserRequest.cs" relfile="RequestLayer/UserRequest.cs" line="33" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/UnitTest1.cs" relfile="OpenPlatformSDKTests/UnitTest1.cs" line="23" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/UnitTest1.cs" relfile="OpenPlatformSDKTests/UnitTest1.cs" line="14" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/AuthRequest.cs" relfile="RequestLayer/AuthRequest.cs" line="42" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/UserRequest.cs" relfile="RequestLayer/UserRequest.cs" line="31" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/UserRequest.cs" relfile="RequestLayer/UserRequest.cs" line="24" column="1" />
+      <Breakpoint file="/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/MyHttpRequest.cs" relfile="HttpRequest/MyHttpRequest.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="Marcus LeBlanc" Email="marcus@pundix.com" Copyright="Function X Foundation 2019" Company="Function X Foundation" Trademark="Fx" />
+</Properties>

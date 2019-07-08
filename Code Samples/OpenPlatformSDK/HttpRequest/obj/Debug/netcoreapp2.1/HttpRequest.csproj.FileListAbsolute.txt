@@ -1,0 +1,9 @@
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/bin/Debug/netcoreapp2.1/HttpRequest.deps.json
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/bin/Debug/netcoreapp2.1/HttpRequest.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/bin/Debug/netcoreapp2.1/HttpRequest.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.csproj.CoreCompileInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.AssemblyInfoInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.AssemblyInfo.cs
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/obj/Debug/netcoreapp2.1/HttpRequest.csprojAssemblyReference.cache

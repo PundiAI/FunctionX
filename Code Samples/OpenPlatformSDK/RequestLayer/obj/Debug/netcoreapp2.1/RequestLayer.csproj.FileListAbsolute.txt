@@ -1,0 +1,14 @@
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/RequestLayer.deps.json
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/RequestLayer.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/RequestLayer.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/HttpRequest.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/Models.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/Models.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/bin/Debug/netcoreapp2.1/HttpRequest.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.csprojAssemblyReference.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.csproj.CoreCompileInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.AssemblyInfoInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.AssemblyInfo.cs
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.csproj.CopyComplete
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/Debug/netcoreapp2.1/RequestLayer.pdb

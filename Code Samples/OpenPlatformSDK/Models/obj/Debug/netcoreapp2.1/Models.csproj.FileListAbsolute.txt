@@ -1,0 +1,9 @@
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/bin/Debug/netcoreapp2.1/Models.deps.json
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/bin/Debug/netcoreapp2.1/Models.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/bin/Debug/netcoreapp2.1/Models.pdb
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.csprojAssemblyReference.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.csproj.CoreCompileInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfoInputs.cache
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfo.cs
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.dll
+/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/Debug/netcoreapp2.1/Models.pdb
