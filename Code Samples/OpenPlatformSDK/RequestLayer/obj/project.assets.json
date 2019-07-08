@@ -768,11 +768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/RequestLayer.csproj",
+      "projectUniqueName": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/RequestLayer/RequestLayer.csproj",
       "projectName": "RequestLayer",
-      "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/RequestLayer.csproj",
+      "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/RequestLayer/RequestLayer.csproj",
       "packagesPath": "/Users/marcusleblanc/.nuget/packages/",
-      "outputPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/obj/",
+      "outputPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/RequestLayer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -789,11 +789,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/HttpRequest.csproj": {
-              "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/HttpRequest/HttpRequest.csproj"
+            "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/HttpRequest/HttpRequest.csproj": {
+              "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/HttpRequest/HttpRequest.csproj"
             },
-            "/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/Models.csproj": {
-              "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/Models.csproj"
+            "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/Models/Models.csproj": {
+              "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/Models/Models.csproj"
             }
           }
         }

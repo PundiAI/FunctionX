@@ -5615,11 +5615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/OpenPlatformSDKTests.csproj",
+      "projectUniqueName": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/OpenPlatformSDKTests/OpenPlatformSDKTests.csproj",
       "projectName": "OpenPlatformSDKTests",
-      "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/OpenPlatformSDKTests.csproj",
+      "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/OpenPlatformSDKTests/OpenPlatformSDKTests.csproj",
       "packagesPath": "/Users/marcusleblanc/.nuget/packages/",
-      "outputPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/OpenPlatformSDKTests/obj/",
+      "outputPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/OpenPlatformSDKTests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5636,8 +5636,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/RequestLayer.csproj": {
-              "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/RequestLayer/RequestLayer.csproj"
+            "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/RequestLayer/RequestLayer.csproj": {
+              "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/RequestLayer/RequestLayer.csproj"
             }
           }
         }

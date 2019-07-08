@@ -734,11 +734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/Models.csproj",
+      "projectUniqueName": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/Models/Models.csproj",
       "projectName": "Models",
-      "projectPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/Models.csproj",
+      "projectPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/Models/Models.csproj",
       "packagesPath": "/Users/marcusleblanc/.nuget/packages/",
-      "outputPath": "/Users/marcusleblanc/Projects/OpenPlatformSDK/Models/obj/",
+      "outputPath": "/Users/marcusleblanc/Projects/FunctionX/FunctionX/Code Samples/OpenPlatformSDK/Models/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
